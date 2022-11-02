@@ -9,6 +9,8 @@
 На одной из страниц изменены шрифты и размеры текста.
 Сайт представляет собой оформленный Bootstrap-шаблон со встроенными пользовательскими данными.
 Статические файлы Bootstrap загружаются через теги {% load static %} и {% static %}.
+
+Папку venv упаковал в zip архив (так как она не загружается там очень много файлов)
 ---------------------------------------------------------------------------------------
 
 During this module you had to perform the following tasks:
@@ -21,4 +23,4 @@ On one of the pages have changed fonts and text size.
 The site is a Bootstrap template with embedded user data.
 Bootstrap static files are loaded with {% load static %} and {% static %} tags.
 
-Translated with www.DeepL.com/Translator (free version)
+The folder venv packed in a zip archive (as it does not load a lot of files)
