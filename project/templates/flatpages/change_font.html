@@ -1,0 +1,12 @@
+{% extends 'flatpages/default.html' %}
+
+{% block title %}
+{{ flatpage.title }}
+{% endblock title %}
+
+{% block content %}
+    <h2>{{ flatpage.title }}</h2>
+    <hr>
+    <h3>Изменён шрифт и размер</h3>
+    <p style="font:italic 50px bold "Times New Roman", Times, serif">Изменённый шрифт</p>
+{% endblock content %}
